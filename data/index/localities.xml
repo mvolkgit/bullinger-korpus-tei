@@ -3423,6 +3423,7 @@
 				<location>
 					<geo>47.42391 9.37477</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658822</idno>
 			</place>
 			<place xml:id="l475">
 				<settlement>St.Germain</settlement>
