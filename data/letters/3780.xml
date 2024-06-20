@@ -103,7 +103,7 @@
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="la" type="auto"><placeName type="auto_name">Cracoviae</placeName> 30. novembris 1558.</s>
+					<s n="1" xml:lang="la" type="auto"><placeName type="citizen_name" ref="l260" cert="high">Cracoviae</placeName> 30. novembris 1558.</s>
 				</p>
 				<p>
 					<s n="2" xml:lang="la" type="auto">S. P.</s>
@@ -114,7 +114,7 @@
 				</p>
 				<p>
 					<s n="7" xml:lang="la" type="auto">Per literas hoc mihi negotii imposuerunt, ut universos ecclesiae nostrae ministros exorem, ut communes ad regiam maiestatem literas dent, quibus et offitii regii et religionis admoneretur.</s>
-					<s n="8" xml:lang="la" type="auto">Adhortandos item ducunt et principes alios, puta d. palatinum Vilnensem et d[ominum] <placeName type="auto_name">Cracoviensem</placeName>, ad gnaviter perficiendum, quod coeperint.</s>
+					<s n="8" xml:lang="la" type="auto">Adhortandos item ducunt et principes alios, puta d. palatinum <placeName type="citizen_name" ref="l552" cert="high">Vilnensem</placeName> et d[ominum] <placeName type="citizen_name" ref="l260" cert="high">Cracoviensem</placeName>, ad gnaviter perficiendum, quod coeperint.</s>
 					<s n="9" xml:lang="la" type="auto">Ad haec si communibus omnium literis nobilitas christiana animetur, non parvum inde commodum arbitrantur futurum.</s>
 					<s n="10" xml:lang="la" type="auto">Vos agite, quod deceat christianos.</s>
 				</p>
@@ -136,10 +136,10 @@
 					<s n="19" xml:lang="la" type="auto">Raptim ut supra.</s>
 				</p>
 				<p>
-					<s n="20" xml:lang="la" type="auto">Vestri deditissimus <persName ref="p505" cert="high">Ioannes Burcherus</persName> Anglus.</s>
+					<s n="20" xml:lang="la" type="auto">Vestri deditissimus <persName ref="p505" cert="high">Ioannes Burcherus</persName> <placeName type="citizen_name" ref="l830" cert="high">Anglus</placeName>.</s>
 				</p>
 				<p>
-					<s n="21" xml:lang="la" type="auto">Excellentissimo viro d. Heynrico Bullingero caeterisque ecclesiae Tigurinae ministris, d. colendissimis.</s>
+					<s n="21" xml:lang="la" type="auto">Excellentissimo viro d. <persName type="citizen_name" ref="p495" cert="high">Heynrico Bullingero</persName> caeterisque ecclesiae Tigurinae ministris, d. colendissimis.</s>
 				</p>
 				<p>
 					<s n="22" xml:lang="la" type="auto">Tiguri.</s>

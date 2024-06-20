@@ -76,7 +76,7 @@
 				<language ident="de" usage="1000">Deutsch</language>
 			</langUsage>
 		</profileDesc>
-		<revisionDesc status="untouched">
+		<revisionDesc status="finished">
 			<change>init</change>
 		</revisionDesc>
 	</teiHeader>
@@ -92,7 +92,7 @@
 		<body>
 			<div>
 				<p>
-					<s n="1" xml:lang="de" type="auto"><persName type="auto_name">Georg</persName>, grave zu <placeName ref="l572" cert="high">Württemberg</placeName> und zu <placeName type="auto_name">Mumpelgart</placeName> etc.</s>
+					<s n="1" xml:lang="de" type="auto"><persName type="citizen_name" ref="p8098" cert="high">Georg, grave zu Württemberg und zu Mumpelgart</persName> etc.</s>
 				</p>
 				<p>
 					<s n="2" xml:lang="de" type="auto">Unsern gruß zuvor, lieber besonder.</s>
@@ -109,7 +109,7 @@
 				</p>
 				<p>
 					<note>[Keine Unterschrift.]</note>
-					<s n="11" xml:lang="de" type="auto">Unserm lieben besondern Heinrich Bul[lin]ger, prediger zu <placeName type="auto_name">Zürch</placeName>, zu handen.</s>
+					<s n="11" xml:lang="de" type="auto">Unserm lieben besondern <persName type="citizen_name" ref="p495" cert="high">Heinrich Bul[lin]ger</persName>, prediger zu Zürch, zu handen.</s>
 				</p>
 			</div>
 		</body>

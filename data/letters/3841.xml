@@ -103,7 +103,7 @@
 				</p>
 				<p>
 					<s n="4" xml:lang="la" type="auto">Filius, qui librum emit, tui est observantissimus et, quicquid proficiscitur a te, sacrosanctum putat servatque pro reliquiis non tangendis, quaecunque tuis sunt digitis exarata.</s>
-					<s n="5" xml:lang="la" type="auto">Obsecro igitur, ut pro tua humanitate exhilares illum dignerisque in libro scribere vel ista: "Heinrychus Bullingerus <persName type="auto_name">Alexandro Salutio</persName>, Tusanae Christi evangelium praedicanti librum hunc mittit."</s>
+					<s n="5" xml:lang="la" type="auto">Obsecro igitur, ut pro tua humanitate exhilares illum dignerisque in libro scribere vel ista: "<persName type="citizen_name" ref="p495" cert="high">Heinrychus Bullingerus</persName> <persName type="auto_name">Alexandro Salutio</persName>, Tusanae Christi evangelium praedicanti librum hunc mittit."</s>
 					<s n="6" xml:lang="la" type="auto">Hoc enim exhilaratus cupidius leget librum, quam si ego, qui pater, centies eum hortarer ad eius aurei operis lectionem, et gratius erit illi, quam si plurimis aureis abs te donaretur.</s>
 					<s n="7" xml:lang="la" type="auto">Tantillo, quaeso, vir humanissime gratificemur iuveni minime malo.</s>
 				</p>
@@ -113,12 +113,12 @@
 					<s n="10" xml:lang="la" type="auto">Ex <placeName ref="l98" cert="high">Curia</placeName> 16. ianuarii anni 1559.</s>
 				</p>
 				<p>
-					<s n="11" xml:lang="la" type="auto">Tuae integritatis totus ut semper <persName type="auto_name">Philippus Gallicius</persName>.</s>
-					<s n="12" xml:lang="la" type="auto">Vere magno viro d. Heinrycho Bullingero, bonis omnibus honorandissimo.</s>
+					<s n="11" xml:lang="la" type="auto">Tuae integritatis totus ut semper <persName type="citizen_name" ref="p8359" cert="high">Philippus Gallicius</persName>.</s>
+					<s n="12" xml:lang="la" type="auto">Vere magno viro d. <persName type="citizen_name" ref="p495" cert="high">Heinrycho Bullingero</persName>, bonis omnibus honorandissimo.</s>
 					<s n="13" xml:lang="de" type="auto">Zürch.</s>
 				</p>
 				<p>
-					<s n="14" xml:lang="de" type="auto">Maister Hainrich Bullinger.</s>
+					<s n="14" xml:lang="de" type="auto">Maister <persName type="citizen_name" ref="p495" cert="high">Hainrich Bullinger</persName>.</s>
 				</p>
 			</div>
 		</body>

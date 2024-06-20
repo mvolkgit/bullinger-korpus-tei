@@ -28,12 +28,12 @@
 	<standOff>
 		<listPlace type="localities">
 			<place xml:id="l1">
-				<settlement>Aargau</settlement>
 				<district>Aargau</district>
 				<country>Schweiz</country>
 				<location>
-					<geo>47.412396 8.1948321</geo>
+					<geo>47.39557 8.17214</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2661876</idno>
 			</place>
 			<place xml:id="l2">
 				<settlement>Aarau</settlement>
@@ -80,8 +80,9 @@
 				<district>Uri</district>
 				<country>Schweiz</country>
 				<location>
-					<geo>46.88177 8.6439</geo>
+					<geo>46.88042 8.64441</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2661780</idno>
 			</place>
 			<place xml:id="l8">
 				<settlement>Altenklingen</settlement>
@@ -104,8 +105,9 @@
 				<district>St.Gallen</district>
 				<country>Schweiz</country>
 				<location>
-					<geo>47.3782189 9.5413964</geo>
+					<geo>47.37766 9.54746</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2661766</idno>
 			</place>
 			<place xml:id="l11">
 				<settlement>Alzano Lombardo</settlement>
@@ -152,6 +154,7 @@
 				<location>
 					<geo>48.37154 10.89851</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2954172</idno>
 			</place>
 			<place xml:id="l19">
 				<settlement>Auschwitz</settlement>
@@ -162,20 +165,20 @@
 				</location>
 			</place>
 			<place xml:id="l20">
-				<settlement>Backnang</settlement>
-				<district>Baden-Württemberg</district>
-				<country>Deutschland</country>
+				<country>Niederlande</country>
 				<location>
-					<geo>48.94743 9.43718</geo>
+					<geo>52.25 5.75</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2750405</idno>
 			</place>
 			<place xml:id="l21">
-				<settlement>Baden</settlement>
-				<district>Aargau</district>
-				<country>Schweiz</country>
+				<settlement>Geldern</settlement>
+				<district>Nordrhein-Westfalen</district>
+				<country>Deutschland</country>
 				<location>
-					<geo>47.47333 8.30592</geo>
+					<geo>51.51908 6.32363</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2921528</idno>
 			</place>
 			<place xml:id="l22">
 				<settlement>Oberbaden</settlement>
@@ -232,6 +235,7 @@
 				<location>
 					<geo>47.55839 7.57327</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2661604</idno>
 			</place>
 			<place xml:id="l29">
 				<settlement>Basel-Stadt</settlement>
@@ -267,8 +271,11 @@
 			<place xml:id="l34">
 				<settlement>Berg</settlement>
 				<location>
-					<geo>46.82107 8.40133</geo>
+					<geo>47.48667 9.40986</geo>
 				</location>
+				<district>St. Gallen</district>
+				<country>Schweiz</country>
+				<idno subtype="geonames">https://www.geonames.org/8533197</idno>
 			</place>
 			<place xml:id="l35">
 				<settlement>Berg am Irchel</settlement>
@@ -287,9 +294,8 @@
 				</location>
 			</place>
 			<place xml:id="l37">
-				<settlement>Bergell</settlement>
-				<district>Lombardei</district>
-				<country>Italien</country>
+				<district>Bergell</district>
+
 				<location>
 					<geo>46.268396800000005 9.619292601308633</geo>
 				</location>
@@ -323,12 +329,14 @@
 				<location>
 					<geo>46.94809 7.44744</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2661552</idno>
 			</place>
 			<place xml:id="l42">
-				<settlement>Bernang</settlement>
+				<settlement>Berlingen</settlement>
 				<location>
-					<geo>47.666663 9.016657</geo>
+					<geo>47.67388 9.01969</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/6640176</idno>
 			</place>
 			<place xml:id="l43">
 				<settlement>Bernhausen</settlement>
@@ -376,12 +384,13 @@
 				</location>
 			</place>
 			<place xml:id="l49">
-				<settlement>Biel</settlement>
-				<district>Metropolitanes Frankreich</district>
-				<country>Frankreich</country>
+				<settlement>Biel/Bienne</settlement>
+				<district>Bern</district>
+				<country>Schweiz</country>
 				<location>
 					<geo>47.13713 7.24608</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2661513</idno>
 			</place>
 			<place xml:id="l50">
 				<settlement>Bischofszell</settlement>
@@ -546,6 +555,7 @@
 				<location>
 					<geo>47.26698 8.8179</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2661359</idno>
 			</place>
 			<place xml:id="l71">
 				<settlement>Buchs</settlement>
@@ -624,8 +634,9 @@
 				<district>Baden-Württemberg</district>
 				<country>Deutschland</country>
 				<location>
-					<geo>48.684969 9.0113444</geo>
+					<geo>48.68212 9.01171</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2947444</idno>
 			</place>
 			<place xml:id="l82">
 				<settlement>Bülach</settlement>
@@ -655,6 +666,8 @@
 				<location>
 					<geo>52.2 0.11667</geo>
 				</location>
+				<country>United Kingdom</country>
+				<idno subtype="geonames">https://www.geonames.org/2653941</idno>
 			</place>
 			<place xml:id="l87">
 				<settlement>Casaccia</settlement>
@@ -744,6 +757,9 @@
 				<location>
 					<geo>46.84986 9.53287</geo>
 				</location>
+				<district>Graubünden</district>
+				<country>Schweiz</country>
+				<idno subtype="geonames">https://www.geonames.org/2661169</idno>
 			</place>
 			<place xml:id="l99">
 				<settlement>Châtillon-Coligny</settlement>
@@ -820,6 +836,9 @@
 				<location>
 					<geo>46.80429 9.83723</geo>
 				</location>
+				<district>Graubünden</district>
+				<country>Schweiz</country>
+				<idno subtype="geonames">https://www.geonames.org/2661039</idno>
 			</place>
 			<place xml:id="l109">
 				<settlement>Tavate</settlement>
@@ -946,8 +965,9 @@
 				<district>Zürich</district>
 				<country>Schweiz</country>
 				<location>
-					<geo>47.2778545 8.842203</geo>
+					<geo>47.27856 8.84156</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2660965</idno>
 			</place>
 			<place xml:id="l128">
 				<settlement>Düsseldorf</settlement>
@@ -1085,6 +1105,7 @@
 				<location>
 					<geo>47.38775 8.75149</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2660812</idno>
 			</place>
 			<place xml:id="l148">
 				<settlement>Feiburg</settlement>
@@ -1118,11 +1139,12 @@
 			</place>
 			<place xml:id="l152">
 				<settlement>Fischingen</settlement>
-				<district>Baden-Württemberg</district>
-				<country>Deutschland</country>
+				<district>Münchwilen</district>
+				<country>Schweiz</country>
 				<location>
-					<geo>47.415239 8.969223</geo>
+					<geo>47.41422 8.96862</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2660766</idno>
 			</place>
 			<place xml:id="l153">
 				<settlement>Forstegg</settlement>
@@ -1156,8 +1178,9 @@
 				<district>Hessen</district>
 				<country>Deutschland</country>
 				<location>
-					<geo>50.110922 8.682126</geo>
+					<geo>50.11552 8.68417</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2925533</idno>
 			</place>
 			<place xml:id="l158">
 				<settlement>Frankfurt (Oder)</settlement>
@@ -1174,6 +1197,7 @@
 				<location>
 					<geo>47.55776 8.89893</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2660727</idno>
 			</place>
 			<place xml:id="l160">
 				<settlement>Freiburg i.Ü.</settlement>
@@ -1296,6 +1320,7 @@
 				<location>
 					<geo>47.04057 9.06804</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2660594</idno>
 			</place>
 			<place xml:id="l177">
 				<settlement>Gloucester</settlement>
@@ -1443,11 +1468,12 @@
 			</place>
 			<place xml:id="l199">
 				<settlement>Hagenau</settlement>
-				<district>Metropolitanes Frankreich</district>
+				<district>Grand Est</district>
 				<country>Frankreich</country>
 				<location>
-					<geo>48.8172236 7.7885978</geo>
+					<geo>48.81557 7.79051</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/3014078</idno>
 			</place>
 			<place xml:id="l200">
 				<settlement>Haldenstein</settlement>
@@ -1527,8 +1553,9 @@
 				<district>Baden-Württemberg</district>
 				<country>Deutschland</country>
 				<location>
-					<geo>49.41222 8.71</geo>
+					<geo>49.40768 8.69079</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2907911</idno>
 			</place>
 			<place xml:id="l211">
 				<settlement>Heiningen</settlement>
@@ -1545,6 +1572,7 @@
 				<location>
 					<geo>47.38615 9.27916</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2660365</idno>
 			</place>
 			<place xml:id="l213">
 				<settlement>Hessen</settlement>
@@ -1701,6 +1729,7 @@
 				<location>
 					<geo>47.26266 11.39454</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2775220</idno>
 			</place>
 			<place xml:id="l233">
 				<settlement>Irchel</settlement>
@@ -1771,8 +1800,9 @@
 				<district>Zürich</district>
 				<country>Schweiz</country>
 				<location>
-					<geo>47.2288482 8.5251335</geo>
+					<geo>47.22523 8.51104</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/7286180</idno>
 			</place>
 			<place xml:id="l243">
 				<settlement>Kappel</settlement>
@@ -1891,8 +1921,9 @@
 				<district>Baden-Württemberg</district>
 				<country>Deutschland</country>
 				<location>
-					<geo>47.6633 9.1759</geo>
+					<geo>47.66033 9.17582</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2885679</idno>
 			</place>
 			<place xml:id="l258">
 				<settlement>Kopenhagen</settlement>
@@ -1954,6 +1985,7 @@
 				<location>
 					<geo>47.45569 8.74476</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2660084</idno>
 			</place>
 			<place xml:id="l267">
 				<settlement>Köln</settlement>
@@ -1962,6 +1994,7 @@
 				<location>
 					<geo>50.93333 6.95</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2886242</idno>
 			</place>
 			<place xml:id="l268">
 				<settlement>Königsberg</settlement>
@@ -1984,8 +2017,9 @@
 				<district>Zürich</district>
 				<country>Schweiz</country>
 				<location>
-					<geo>47.3176276 8.5830859</geo>
+					<geo>47.31805 8.58401</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2660089</idno>
 			</place>
 			<place xml:id="l271">
 				<settlement>La Rochelles</settlement>
@@ -2000,8 +2034,9 @@
 				<district>Metropolitanes Frankreich</district>
 				<country>Frankreich</country>
 				<location>
-					<geo>46.160329 -1.151139</geo>
+					<geo>46.16308 -1.15222</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/3006787</idno>
 			</place>
 			<place xml:id="l273">
 				<settlement>Rochelle</settlement>
@@ -2070,6 +2105,8 @@
 				<location>
 					<geo>46.76726 10.11062</geo>
 				</location>
+				<district>Engadin</district>
+				<country>Schweiz</country>
 			</place>
 			<place xml:id="l282">
 				<settlement>Leiden</settlement>
@@ -2181,6 +2218,8 @@
 				<location>
 					<geo>51.50853 -0.12574</geo>
 				</location>
+				<country>United Kingdom</country>
+				<idno subtype="geonames">https://www.geonames.org/2643743</idno>
 			</place>
 			<place xml:id="l297">
 				<settlement>London-Lambeth</settlement>
@@ -2209,6 +2248,7 @@
 				<location>
 					<geo>47.05048 8.30635</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2659811</idno>
 			</place>
 			<place xml:id="l301">
 				<settlement>Lyon</settlement>
@@ -2250,6 +2290,7 @@
 				<location>
 					<geo>45.46427 9.18951</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/3173435</idno>
 			</place>
 			<place xml:id="l307">
 				<settlement>Mainz</settlement>
@@ -2261,11 +2302,12 @@
 			</place>
 			<place xml:id="l308">
 				<settlement>Malans</settlement>
-				<district>Metropolitanes Frankreich</district>
-				<country>Frankreich</country>
+
+				<country>Schweiz</country>
 				<location>
-					<geo>46.98167 9.575894</geo>
+					<geo>46.98096 9.57527</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2659784</idno>
 			</place>
 			<place xml:id="l309">
 				<settlement>Manslacht</settlement>
@@ -2324,8 +2366,9 @@
 				<district>Zürich</district>
 				<country>Schweiz</country>
 				<location>
-					<geo>47.2792 8.66259</geo>
+					<geo>47.27232 8.64617</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2659703</idno>
 			</place>
 			<place xml:id="l318">
 				<settlement>Melschtin</settlement>
@@ -2348,6 +2391,7 @@
 				<location>
 					<geo>47.98372 10.18527</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2871992</idno>
 			</place>
 			<place xml:id="l321">
 				<settlement>Mesericz</settlement>
@@ -2395,11 +2439,12 @@
 			</place>
 			<place xml:id="l327">
 				<settlement>Montbéliard</settlement>
-				<district>Metropolitanes Frankreich</district>
+				<district>Bourgogne-Franche-Comté</district>
 				<country>Frankreich</country>
 				<location>
-					<geo>47.510356 6.798466</geo>
+					<geo>47.50957 6.79823</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2992938</idno>
 			</place>
 			<place xml:id="l328">
 				<settlement>Montpellier</settlement>
@@ -2470,6 +2515,7 @@
 				<location>
 					<geo>48.13743 11.57549</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2867714</idno>
 			</place>
 			<place xml:id="l337">
 				<settlement>Neuburg</settlement>
@@ -2563,6 +2609,8 @@
 				<location>
 					<geo>52.62783 1.29834</geo>
 				</location>
+				<country>United Kingdom</country>
+				<idno subtype="geonames">https://www.geonames.org/2641181</idno>
 			</place>
 			<place xml:id="l353">
 				<settlement>Noyon</settlement>
@@ -2744,14 +2792,16 @@
 				<location>
 					<geo>45.40797 11.88586</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/3171728</idno>
 			</place>
 			<place xml:id="l378">
 				<settlement>Paris</settlement>
-				<district>Metropolitanes Frankreich</district>
+				<district>Île-de-France</district>
 				<country>Frankreich</country>
 				<location>
-					<geo>48.8566 2.35166</geo>
+					<geo>48.85341 2.3488</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2988507</idno>
 			</place>
 			<place xml:id="l379">
 				<settlement>Payerne</settlement>
@@ -2858,6 +2908,11 @@
 			</place>
 			<place xml:id="l396">
 				<settlement>Prag</settlement>
+				<country>Tschechien</country>
+				<location>
+					<geo>50.08804 14.42076</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/3067696</idno>
 			</place>
 			<place xml:id="l397">
 				<settlement>Promontogno</settlement>
@@ -2959,12 +3014,13 @@
 				</location>
 			</place>
 			<place xml:id="l411">
-				<settlement>Reichenweier</settlement>
-				<district>Metropolitanes Frankreich</district>
+				<settlement>Riquewihr</settlement>
+				<district>Grand Est</district>
 				<country>Frankreich</country>
 				<location>
 					<geo>48.16672 7.29707</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2983451</idno>
 			</place>
 			<place xml:id="l412">
 				<settlement>Reutlingen</settlement>
@@ -3141,11 +3197,12 @@
 			</place>
 			<place xml:id="l435">
 				<settlement>Rüti</settlement>
-				<district>Glarus</district>
+				<district>Hinwil</district>
 				<country>Schweiz</country>
 				<location>
-					<geo>47.256699 8.854421</geo>
+					<geo>47.25603 8.85552</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658909</idno>
 			</place>
 			<place xml:id="l436">
 				<settlement>Saanen</settlement>
@@ -3173,6 +3230,11 @@
 			</place>
 			<place xml:id="l440">
 				<settlement>Samedan</settlement>
+				<country>Schweiz</country>
+				<location>
+					<geo>46.53399 9.87276</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658846</idno>
 			</place>
 			<place xml:id="l441">
 				<settlement>Schaffhausen</settlement>
@@ -3181,6 +3243,7 @@
 				<location>
 					<geo>47.69732 8.63493</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658761</idno>
 			</place>
 			<place xml:id="l442">
 				<settlement>Schafis</settlement>
@@ -3260,11 +3323,12 @@
 			</place>
 			<place xml:id="l452">
 				<settlement>Sélestat</settlement>
-				<district>Metropolitanes Frankreich</district>
+				<district>Sélestat-Erstein</district>
 				<country>Frankreich</country>
 				<location>
-					<geo>48.2594396 7.454217</geo>
+					<geo>48.26195 7.4489</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2975233</idno>
 			</place>
 			<place xml:id="l453">
 				<settlement>Schlestadt</settlement>
@@ -3295,6 +3359,12 @@
 			</place>
 			<place xml:id="l457">
 				<settlement>Konstanz</settlement>
+				<district>Baden-Württemberg</district>
+				<country>Deutschland</country>
+				<location>
+					<geo>47.66033 9.17582</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2885679</idno>
 			</place>
 			<place xml:id="l458">
 				<settlement>Schwanden</settlement>
@@ -3393,12 +3463,13 @@
 				</location>
 			</place>
 			<place xml:id="l471">
-				<settlement>Speier</settlement>
-				<district>Hessen</district>
+				<settlement>Speyer</settlement>
+				<district>Rheinland-Pfalz</district>
 				<country>Deutschland</country>
 				<location>
 					<geo>49.32083 8.43111</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2830582</idno>
 			</place>
 			<place xml:id="l472">
 				<settlement>Speyer</settlement>
@@ -3423,6 +3494,7 @@
 				<location>
 					<geo>47.42391 9.37477</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658822</idno>
 			</place>
 			<place xml:id="l475">
 				<settlement>St.Germain</settlement>
@@ -3523,8 +3595,9 @@
 				<district>Thurgau</district>
 				<country>Schweiz</country>
 				<location>
-					<geo>47.669045 8.9822282</geo>
+					<geo>47.66667 8.98333</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658495</idno>
 			</place>
 			<place xml:id="l488">
 				<settlement>Steeg</settlement>
@@ -3535,10 +3608,13 @@
 				</location>
 			</place>
 			<place xml:id="l489">
-				<settlement>Stein</settlement>
+				<settlement>Stein am Rhein</settlement>
 				<location>
-					<geo>47.66429 8.84683</geo>
+					<geo>47.65933 8.85964</geo>
 				</location>
+				<district>Schaffhausen</district>
+				<country>Schweiz</country>
+				<idno subtype="geonames">https://www.geonames.org/2658489</idno>
 			</place>
 			<place xml:id="l490">
 				<settlement>Stein am Rhein</settlement>
@@ -3558,11 +3634,12 @@
 			</place>
 			<place xml:id="l492">
 				<settlement>Strassburg</settlement>
-				<district>Metropolitanes Frankreich</district>
+				<district>Grand Est</district>
 				<country>Frankreich</country>
 				<location>
 					<geo>48.58392 7.74553</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2973783</idno>
 			</place>
 			<place xml:id="l493">
 				<settlement>Strasbourg</settlement>
@@ -3590,6 +3667,7 @@
 				<location>
 					<geo>48.78232 9.17702</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2825297</idno>
 			</place>
 			<place xml:id="l497">
 				<settlement>Suhr</settlement>
@@ -3706,6 +3784,7 @@
 				<location>
 					<geo>48.52266 9.05222</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2820860</idno>
 			</place>
 			<place xml:id="l513">
 				<settlement>Ulm</settlement>
@@ -3714,6 +3793,7 @@
 				<location>
 					<geo>48.39841 9.99155</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2820256</idno>
 			</place>
 			<place xml:id="l514">
 				<settlement>Urach</settlement>
@@ -3736,8 +3816,9 @@
 				<district>Uri</district>
 				<country>Schweiz</country>
 				<location>
-					<geo>46.773862 8.602516</geo>
+					<geo>46.7847 8.64175</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658226</idno>
 			</place>
 			<place xml:id="l517">
 				<settlement>Uster</settlement>
@@ -3749,6 +3830,11 @@
 			</place>
 			<place xml:id="l518">
 				<settlement>Utrecht</settlement>
+				<country>Niederlande</country>
+				<location>
+					<geo>52.09083 5.12222</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2745912</idno>
 			</place>
 			<place xml:id="l519">
 				<settlement>Veltheim</settlement>
@@ -3929,6 +4015,7 @@
 				<location>
 					<geo>51.6669 6.62037</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2810678</idno>
 			</place>
 			<place xml:id="l542">
 				<settlement>Westminster</settlement>
@@ -3950,14 +4037,17 @@
 				<district>Zürich</district>
 				<country>Schweiz</country>
 				<location>
-					<geo>47.3226925 8.7980939</geo>
+					<geo>47.3264 8.79779</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658010</idno>
 			</place>
 			<place xml:id="l545">
 				<settlement>Wieliczka</settlement>
 				<location>
 					<geo>49.98738 20.06473</geo>
 				</location>
+				<country>Polen</country>
+				<idno subtype="geonames">https://www.geonames.org/755889</idno>
 			</place>
 			<place xml:id="l546">
 				<settlement>Wien</settlement>
@@ -4012,6 +4102,8 @@
 				<location>
 					<geo>51.06513 -1.3187</geo>
 				</location>
+				<country>England</country>
+				<idno subtype="geonames">https://www.geonames.org/2633858</idno>
 			</place>
 			<place xml:id="l554">
 				<settlement>Windsor</settlement>
@@ -4107,6 +4199,8 @@
 				<location>
 					<geo>52.18935 -2.22001</geo>
 				</location>
+				<country>United Kingdom</country>
+				<idno subtype="geonames">https://www.geonames.org/2633563</idno>
 			</place>
 			<place xml:id="l568">
 				<settlement>Woringen</settlement>
@@ -4159,8 +4253,10 @@
 			<place xml:id="l574">
 				<settlement>York</settlement>
 				<location>
-					<geo>53.958333 -1.080278</geo>
+					<geo>53.95763 -1.08271</geo>
 				</location>
+				<country>England</country>
+				<idno subtype="geonames">https://www.geonames.org/2633352</idno>
 			</place>
 			<place xml:id="l576">
 				<settlement>Zaliczin</settlement>
@@ -4289,6 +4385,10 @@
 			<place xml:id="l594">
 				<district>Aargau</district>
 				<country>Schweiz</country>
+				<location>
+					<geo>47.39557 8.17214</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2661876</idno>
 			</place>
 			<place xml:id="l596">
 				<district>Aichach</district>
@@ -4337,6 +4437,10 @@
 			<place xml:id="l609">
 				<district>Baden-Württemberg</district>
 				<country>Deutschland</country>
+				<location>
+					<geo>48.5 9</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2953481</idno>
 			</place>
 			<place xml:id="l610">
 				<district>Basel</district>
@@ -4404,7 +4508,11 @@
 			</place>
 			<place xml:id="l626">
 				<district>Brest</district>
-				<country>Weißrussland</country>
+				<country>Belarus</country>
+				<location>
+					<geo>52.09755 23.68775</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/629634</idno>
 			</place>
 			<place xml:id="l627">
 				<district>Brest</district>
@@ -4429,6 +4537,10 @@
 			<place xml:id="l632">
 				<district>Elsass</district>
 				<country>Frankreich</country>
+				<location>
+					<geo>48.33333 7.43333</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/3038033</idno>
 			</place>
 			<place xml:id="l633">
 				<district>Elsaß</district>
@@ -4453,6 +4565,10 @@
 			<place xml:id="l638">
 				<district>Engadin (Graubünden)</district>
 				<country>Schweiz</country>
+				<location>
+					<geo>46.5 10</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2660904</idno>
 			</place>
 			<place xml:id="l639">
 				<district>Emilia-Romagna</district>
@@ -4485,6 +4601,10 @@
 			<place xml:id="l646">
 				<district>Glarus</district>
 				<country>Schweiz</country>
+				<location>
+					<geo>47.04057 9.06804</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2660594</idno>
 			</place>
 			<place xml:id="l647">
 				<district>GL</district>
@@ -4621,6 +4741,10 @@
 			<place xml:id="l680">
 				<district>Kujawien-Pommern</district>
 				<country>Polen</country>
+				<location>
+					<geo>53.08333 18.5</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/3337500</idno>
 			</place>
 			<place xml:id="l681">
 				<district>Kujawien-Pommern</district>
@@ -4665,6 +4789,10 @@
 			<place xml:id="l691">
 				<district>Lothringen</district>
 				<country>Frankreich</country>
+				<location>
+					<geo>48.76667 6.13333</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2997551</idno>
 			</place>
 			<place xml:id="l692">
 				<district>Lublin</district>
@@ -4701,6 +4829,10 @@
 			<place xml:id="l700">
 				<district>województwo mazowieckie</district>
 				<country>Polen</country>
+				<location>
+					<geo>52.36667 21.1</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/858787</idno>
 			</place>
 			<place xml:id="l701">
 				<district>Mecklenburg-Vorpommern</district>
@@ -4769,6 +4901,10 @@
 			<place xml:id="l717">
 				<district>Niederösterreich</district>
 				<country>Österreich</country>
+				<location>
+					<geo>48.33333 15.75</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2770542</idno>
 			</place>
 			<place xml:id="l718">
 				<district>Ostarrîchi</district>
@@ -4789,6 +4925,10 @@
 			<place xml:id="l722">
 				<district>Norfolk</district>
 				<country>England</country>
+				<location>
+					<geo>52.66667 1</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2641455</idno>
 			</place>
 			<place xml:id="l723">
 				<district>Nordwestrussland</district>
@@ -4845,6 +4985,10 @@
 			<place xml:id="l736">
 				<district>Piemont</district>
 				<country>Italien</country>
+				<location>
+					<geo>45 8</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/3170831</idno>
 			</place>
 			<place xml:id="l737">
 				<district>Piemont</district>
@@ -4897,6 +5041,10 @@
 			<place xml:id="l749">
 				<district>Sachsen</district>
 				<country>Deutschland</country>
+				<location>
+					<geo>51 13.25</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2842566</idno>
 			</place>
 			<place xml:id="l750">
 				<district>Sachsen-Anhalt</district>
@@ -4909,6 +5057,10 @@
 			<place xml:id="l752">
 				<district>Schaffhausen</district>
 				<country>Schweiz</country>
+				<location>
+					<geo>47.71034 8.63388</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658760</idno>
 			</place>
 			<place xml:id="l753">
 				<district>SH</district>
@@ -4941,6 +5093,11 @@
 			<place xml:id="l760">
 				<district>Solothurn</district>
 				<country>Schweiz</country>
+				<settlement>Solothurn</settlement>
+				<location>
+					<geo>47.20791 7.53714</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658564</idno>
 			</place>
 			<place xml:id="l761">
 				<district>SO</district>
@@ -4997,6 +5154,10 @@
 			<place xml:id="l774">
 				<district>Thurgau</district>
 				<country>Schweiz</country>
+				<location>
+					<geo>47.5562 9.07686</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658372</idno>
 			</place>
 			<place xml:id="l775">
 				<district>TG</district>
@@ -5005,6 +5166,10 @@
 			<place xml:id="l776">
 				<district>Thüringen</district>
 				<country>Deutschland</country>
+				<location>
+					<geo>50.91667 11</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2822542</idno>
 			</place>
 			<place xml:id="l777">
 				<district>Tirol</district>
@@ -5113,6 +5278,10 @@
 			<place xml:id="l803">
 				<district>Zürich</district>
 				<country>Schweiz</country>
+				<location>
+					<geo>47.36667 8.55</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2657896</idno>
 			</place>
 			<place xml:id="l804">
 				<district>ZH</district>
@@ -5180,6 +5349,10 @@
 			</place>
 			<place xml:id="l825">
 				<country>Dänemark</country>
+				<location>
+					<geo>56 10</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2623032</idno>
 			</place>
 			<place xml:id="l826">
 				<country>Denmark</country>
@@ -5195,6 +5368,10 @@
 			</place>
 			<place xml:id="l830">
 				<country>England</country>
+				<location>
+					<geo>52.16045 -0.70312</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/6269131</idno>
 			</place>
 			<place xml:id="l831">
 				<country>United Kingdom</country>
@@ -5207,6 +5384,10 @@
 			</place>
 			<place xml:id="l834">
 				<country>Italien</country>
+				<location>
+					<geo>42.83333 12.83333</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/3175395</idno>
 			</place>
 			<place xml:id="l835">
 				<country>Italy</country>
@@ -5222,12 +5403,20 @@
 			</place>
 			<place xml:id="l839">
 				<country>Kroatien</country>
+				<location>
+					<geo>45.16667 15.5</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/3202326</idno>
 			</place>
 			<place xml:id="l840">
 				<country>Croatia</country>
 			</place>
 			<place xml:id="l841">
 				<country>Litauen</country>
+				<location>
+					<geo>55.41667 24</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/597427</idno>
 			</place>
 			<place xml:id="l842">
 				<country>Lithuania</country>
@@ -5291,6 +5480,10 @@
 			</place>
 			<place xml:id="l862">
 				<country>Schweiz</country>
+				<location>
+					<geo>47.00016 8.01427</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658434</idno>
 			</place>
 			<place xml:id="l863">
 				<country>Switzerland</country>
@@ -5311,7 +5504,8 @@
 				<country>Eidgenossenschaft</country>
 			</place>
 			<place xml:id="l869">
-				<country>Siebenbürgen</country>
+				<country>Rumänien</country>
+				<settlement>Siebenbürgen</settlement>
 			</place>
 			<place xml:id="l870">
 				<country>Slovenien</country>
@@ -5330,6 +5524,10 @@
 			</place>
 			<place xml:id="l875">
 				<country>Spanien</country>
+				<location>
+					<geo>40 -4</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2510769</idno>
 			</place>
 			<place xml:id="l876">
 				<country>Spain</country>
@@ -5351,6 +5549,10 @@
 			</place>
 			<place xml:id="l882">
 				<country>Ungarn</country>
+				<location>
+					<geo>47 20</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/719819</idno>
 			</place>
 			<place xml:id="l883">
 				<country>Hungary</country>
@@ -5641,6 +5843,7 @@
 				<location>
 					<geo>50.76504 19.821038</geo>
 				</location>
+				<country>Polen</country>
 			</place>
 			<place xml:id="l940">
 				<settlement>Swietokrzyskie</settlement>
@@ -5697,7 +5900,7 @@
 				</location>
 			</place>
 			<place xml:id="l948">
-				<settlement>Воўпа</settlement>
+				<settlement>Bоўпа</settlement>
 				<location>
 					<geo>53.368745 24.362002</geo>
 				</location>
@@ -5757,6 +5960,7 @@
 				<location>
 					<geo>50.52052 20.52649</geo>
 				</location>
+				<country>Polen</country>
 			</place>
 			<place xml:id="l958">
 				<settlement>Klingnau</settlement>
@@ -5844,15 +6048,18 @@
 				<district>Aargau</district>
 				<country>Schweiz</country>
 				<location>
-					<geo>47.3252906 8.2079184</geo>
+					<geo>47.32503 8.20724</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658649</idno>
 			</place>
 			<place xml:id="l970">
 				<settlement>Einsiedeln</settlement>
 				<country>Schweiz</country>
 				<location>
-					<geo>47.1286095 8.7500299</geo>
+					<geo>47.12849 8.74735</geo>
 				</location>
+				<district>Schwyz</district>
+				<idno subtype="geonames">https://www.geonames.org/2660925</idno>
 			</place>
 			<place xml:id="l971">
 				<settlement>Karthago</settlement>
@@ -5898,10 +6105,12 @@
 			</place>
 			<place xml:id="l977">
 				<settlement>Arbon</settlement>
-				<country>France</country>
+				<country>Schweiz</country>
 				<location>
-					<geo>43.0007 0.747026</geo>
+					<geo>47.51667 9.43333</geo>
 				</location>
+				<district>Thurgau</district>
+				<idno subtype="geonames">https://www.geonames.org/2661731</idno>
 			</place>
 			<place xml:id="l978">
 				<settlement>Birmensdorf</settlement>
@@ -5962,6 +6171,7 @@
 				<location>
 					<geo>31.79592425 35.21198075969497</geo>
 				</location>
+				<country>Israel</country>
 			</place>
 			<place xml:id="l986">
 				<settlement>Beromünster</settlement>
@@ -6027,10 +6237,12 @@
 			</place>
 			<place xml:id="l994">
 				<settlement>Neapel</settlement>
-				<country>Italia</country>
+				<country>Italien</country>
 				<location>
-					<geo>40.8358846 14.2487679</geo>
+					<geo>40.85216 14.26811</geo>
 				</location>
+				<district>Campania</district>
+				<idno subtype="geonames">https://www.geonames.org/3172394</idno>
 			</place>
 			<place xml:id="l995">
 				<settlement>Schöftland</settlement>
@@ -6119,11 +6331,12 @@
 			</place>
 			<place xml:id="l1006">
 				<settlement>Rorschach</settlement>
-				<district>Sankt Gallen</district>
+				<district>St. Gallen</district>
 				<country>Schweiz</country>
 				<location>
-					<geo>47.4779686 9.4914025</geo>
+					<geo>47.478 9.4903</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658969</idno>
 			</place>
 			<place xml:id="l1007">
 				<settlement>Gubel</settlement>
@@ -6204,8 +6417,9 @@
 				<district>Baden-Württemberg</district>
 				<country>Deutschland</country>
 				<location>
-					<geo>47.695637250000004 9.059202239614567</geo>
+					<geo>47.68885 9.06355</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/3209418</idno>
 			</place>
 			<place xml:id="l1018">
 				<settlement>Camarina</settlement>
@@ -6381,8 +6595,10 @@
 			<place xml:id="l1040">
 				<settlement>Paros</settlement>
 				<location>
-					<geo>37.0651048 25.1921674022054</geo>
+					<geo>37.05722 25.1875</geo>
 				</location>
+				<country>Griechenland</country>
+				<idno subtype="geonames">https://www.geonames.org/255720</idno>
 			</place>
 			<place xml:id="l1041">
 				<settlement>Braunschweig</settlement>
@@ -6540,8 +6756,9 @@
 				<district>Lombardia</district>
 				<country>Italia</country>
 				<location>
-					<geo>45.1692628 10.670836515673878</geo>
+					<geo>45.16031 10.79784</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/3174051</idno>
 			</place>
 			<place xml:id="l1061">
 				<settlement>Ossingen</settlement>
@@ -6825,12 +7042,13 @@
 				</location>
 			</place>
 			<place xml:id="l1097">
-				<settlement>Münster i. W.</settlement>
+				<settlement>Münster</settlement>
 				<district>Nordrhein-Westfalen</district>
 				<country>Deutschland</country>
 				<location>
-					<geo>51.960665 7.626135</geo>
+					<geo>51.96236 7.62571</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2867543</idno>
 			</place>
 			<place xml:id="l1098">
 				<settlement>Florenz</settlement>
@@ -7114,8 +7332,9 @@
 				<district>Thurgau</district>
 				<country>Schweiz</country>
 				<location>
-					<geo>47.6464362 9.1725621</geo>
+					<geo>47.65051 9.17504</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2660108</idno>
 			</place>
 			<place xml:id="l1135">
 				<settlement>Twann</settlement>
@@ -7631,8 +7850,9 @@
 				<district>Thüringen</district>
 				<country>Deutschland</country>
 				<location>
-					<geo>50.7213643 10.4510467</geo>
+					<geo>50.72136 10.44386</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2838059</idno>
 			</place>
 			<place xml:id="l1203">
 				<settlement>Altshausen</settlement>
@@ -7915,8 +8135,9 @@
 				<district>Zürich</district>
 				<country>Schweiz</country>
 				<location>
-					<geo>47.4199708 8.4366271</geo>
+					<geo>47.42022 8.43644</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658035</idno>
 			</place>
 			<place xml:id="l1242">
 				<settlement>Dieuze (Lothringen)</settlement>
@@ -7935,11 +8156,12 @@
 			</place>
 			<place xml:id="l1244">
 				<settlement>Wald</settlement>
-				<district>Bayern</district>
-				<country>Deutschland</country>
+				<district>Hinwil</district>
+				<country>Schweiz</country>
 				<location>
-					<geo>47.7224806 10.5568957</geo>
+					<geo>47.27595 8.91405</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658073</idno>
 			</place>
 			<place xml:id="l1245">
 				<settlement>Flums</settlement>
@@ -8214,24 +8436,30 @@
 				</location>
 			</place>
 			<place xml:id="l1283">
-				<settlement>Wil</settlement>
+				<settlement>Wil SG</settlement>
 				<location>
-					<geo>41.5018224 -84.5923785</geo>
+					<geo>47.46152 9.04552</geo>
 				</location>
+				<district>Wil</district>
+				<country>Schweiz</country>
+				<idno subtype="geonames">https://www.geonames.org/2657996</idno>
 			</place>
 			<place xml:id="l1284">
 				<settlement>Brüssel</settlement>
 				<location>
-					<geo>50.8465573 4.351697</geo>
+					<geo>50.85045 4.34878</geo>
 				</location>
+				<country>Belgien</country>
+				<idno subtype="geonames">https://www.geonames.org/2800866</idno>
 			</place>
 			<place xml:id="l1285">
 				<settlement>Calw</settlement>
 				<district>Baden-Württemberg</district>
 				<country>Deutschland</country>
 				<location>
-					<geo>48.7112108 8.7452043</geo>
+					<geo>48.71419 8.74031</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2940383</idno>
 			</place>
 			<place xml:id="l1286">
 				<settlement>Nagold</settlement>
@@ -8511,6 +8739,8 @@
 				<location>
 					<geo>50.879202 4.7011675</geo>
 				</location>
+				<district>Flandern</district>
+				<country>Belgien</country>
 			</place>
 			<place xml:id="l1323">
 				<settlement>Eisleben</settlement>
@@ -8562,8 +8792,10 @@
 			<place xml:id="l1329">
 				<settlement>Lüttich</settlement>
 				<location>
-					<geo>50.6450944 5.5736112</geo>
+					<geo>50.63373 5.56749</geo>
 				</location>
+				<country>Belgien</country>
+				<idno subtype="geonames">https://www.geonames.org/2792413</idno>
 			</place>
 			<place xml:id="l1330">
 				<settlement>Cluny</settlement>
@@ -8719,11 +8951,12 @@
 			</place>
 			<place xml:id="l1350">
 				<settlement>Egnach</settlement>
-				<district>Thurgau</district>
+				<district>Arbon</district>
 				<country>Schweiz</country>
 				<location>
-					<geo>47.5432155 9.3814541</geo>
+					<geo>47.54268 9.38048</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2660932</idno>
 			</place>
 			<place xml:id="l1351">
 				<settlement>Basadingen</settlement>
@@ -9033,6 +9266,8 @@
 				<location>
 					<geo>51.2085526 3.226772</geo>
 				</location>
+				<district>Flandern</district>
+				<country>Belgien</country>
 			</place>
 			<place xml:id="l1391">
 				<settlement>Escholzmatt</settlement>
@@ -9386,12 +9621,13 @@
 				</location>
 			</place>
 			<place xml:id="l1438">
-				<settlement>Büren</settlement>
-				<district>Nordrhein-Westfalen</district>
-				<country>Deutschland</country>
+				<settlement>Büren an der Aare</settlement>
+				<district>Bern</district>
+				<country>Schweiz</country>
 				<location>
-					<geo>51.5497446 8.573474968213432</geo>
+					<geo>47.14175 7.37063</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/7285387</idno>
 			</place>
 			<place xml:id="l1439">
 				<settlement>Oldekloster</settlement>
@@ -10124,8 +10360,9 @@
 				<district>Luzern</district>
 				<country>Schweiz</country>
 				<location>
-					<geo>47.2351967 8.0767478</geo>
+					<geo>47.23573 8.07652</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658315</idno>
 			</place>
 			<place xml:id="l1538">
 				<settlement>Willisau</settlement>
@@ -10233,10 +10470,12 @@
 			</place>
 			<place xml:id="l1552">
 				<settlement>Chillon</settlement>
-				<country>España</country>
+				<country>Schweiz</country>
 				<location>
-					<geo>38.7967523 -4.8669119</geo>
+					<geo>46.41441 6.92795</geo>
 				</location>
+				<district>Waadt</district>
+				<idno subtype="geonames">https://www.geonames.org/2661173</idno>
 			</place>
 			<place xml:id="l1553">
 				<settlement>Zeller</settlement>
@@ -10248,11 +10487,12 @@
 			</place>
 			<place xml:id="l1554">
 				<settlement>Klingenberg</settlement>
-				<district>Bayern</district>
-				<country>Deutschland</country>
+				<district>Homburg</district>
+				<country>Schweiz</country>
 				<location>
-					<geo>49.7824102 9.1827765</geo>
+					<geo>47.62284 9.00304</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/11568291</idno>
 			</place>
 			<place xml:id="l1555">
 				<settlement>Berlingen</settlement>
@@ -10283,8 +10523,9 @@
 				<district>Thurgau</district>
 				<country>Schweiz</country>
 				<location>
-					<geo>47.5832841 8.8658328</geo>
+					<geo>47.58343 8.86604</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2660233</idno>
 			</place>
 			<place xml:id="l1559">
 				<settlement>Bergzabern</settlement>
@@ -10351,11 +10592,12 @@
 			</place>
 			<place xml:id="l1567">
 				<settlement>Pirna</settlement>
-				<district>Zürich</district>
-				<country>Schweiz</country>
+
+				<country>Deutschland</country>
 				<location>
-					<geo>50.962518 13.941917</geo>
+					<geo>50.95843 13.93702</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2853572</idno>
 			</place>
 			<place xml:id="l1568">
 				<settlement>Astia</settlement>
@@ -10725,10 +10967,13 @@
 				<country>Schweiz</country>
 			</place>
 			<place xml:id="l1618">
-				<settlement>Pfeffers</settlement>
+				<settlement>Pfäfers</settlement>
 				<location>
-					<geo>39.5860195 -75.1798851</geo>
+					<geo>46.98986 9.50077</geo>
 				</location>
+				<district>St. Gallen</district>
+				<country>Schweiz</country>
+				<idno subtype="geonames">https://www.geonames.org/2659224</idno>
 			</place>
 			<place xml:id="l1619">
 				<settlement>Großgartach</settlement>
@@ -10739,11 +10984,13 @@
 				</location>
 			</place>
 			<place xml:id="l1620">
-				<settlement>Fußach (Vorarlberg)</settlement>
+				<settlement>Fußach</settlement>
 				<country>Österreich</country>
 				<location>
-					<geo>47.4791446 9.6631092</geo>
+					<geo>47.47933 9.66278</geo>
 				</location>
+				<district>Vorarlberg</district>
+				<idno subtype="geonames">https://www.geonames.org/2779082</idno>
 			</place>
 			<place xml:id="l1621">
 				<settlement>Pfungen</settlement>
@@ -10997,11 +11244,12 @@
 			</place>
 			<place xml:id="l1654">
 				<settlement>Goldach</settlement>
-				<district>Appenzell Ausserrhoden</district>
+				<district>St.Gallen</district>
 				<country>Schweiz</country>
 				<location>
-					<geo>47.4310698 9.4519234</geo>
+					<geo>47.47401 9.46711</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2660575</idno>
 			</place>
 			<place xml:id="l1655">
 				<settlement>Halgehausen bei Frankenberg (Hessen)</settlement>
@@ -11009,17 +11257,20 @@
 				<country>Schweiz</country>
 			</place>
 			<place xml:id="l1656">
-				<settlement>Artois</settlement>
 				<location>
-					<geo>49.1285001 3.4565873</geo>
+					<geo>50.5 2.5</geo>
 				</location>
+				<district>Artois</district>
+				<country>Frankreich</country>
+				<idno subtype="geonames">https://www.geonames.org/3036644</idno>
 			</place>
 			<place xml:id="l1657">
-				<settlement>Saint-Pol</settlement>
 				<country>France</country>
 				<location>
-					<geo>45.6843208 5.9227441</geo>
+					<geo>43.72566 -1.05283</geo>
 				</location>
+				<district>Saint-Paul</district>
+				<idno subtype="geonames">https://www.geonames.org/2977648</idno>
 			</place>
 			<place xml:id="l1658">
 				<settlement>Calenbergensem</settlement>
@@ -11602,8 +11853,8 @@
 			</place>
 			<place xml:id="l1737">
 				<settlement>St. Jakob an der Birs</settlement>
-				<district>Sachsen</district>
-				<country>Deutschland</country>
+
+				<country>Schweiz</country>
 			</place>
 			<place xml:id="l1738">
 				<settlement>Schliengen</settlement>
@@ -12470,8 +12721,10 @@
 			<place xml:id="l1855">
 				<settlement>Korinth</settlement>
 				<location>
-					<geo>37.9385413 22.9273768</geo>
+					<geo>37.94007 22.9513</geo>
 				</location>
+				<country>Griechenland</country>
+				<idno subtype="geonames">https://www.geonames.org/259289</idno>
 			</place>
 			<place xml:id="l1856">
 				<settlement>Pergamon</settlement>
@@ -12556,8 +12809,9 @@
 				<settlement>Poitiers</settlement>
 				<country>France</country>
 				<location>
-					<geo>46.5802596 0.340196</geo>
+					<geo>46.58261 0.34348</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2986495</idno>
 			</place>
 			<place xml:id="l1868">
 				<settlement>Ansbach</settlement>
@@ -13208,8 +13462,9 @@
 				<settlement>Suffolk</settlement>
 				<country>United Kingdom</country>
 				<location>
-					<geo>52.241001350000005 1.0466830312565236</geo>
+					<geo>52.16667 1</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2636561</idno>
 			</place>
 			<place xml:id="l1957">
 				<settlement>Hadleigh</settlement>
@@ -13347,10 +13602,13 @@
 				</location>
 			</place>
 			<place xml:id="l1976">
-				<settlement>Augusta</settlement>
+				<settlement>Augsburg</settlement>
 				<location>
-					<geo>33.4709714 -81.9748429</geo>
+					<geo>48.37154 10.89851</geo>
 				</location>
+				<district>Bayern</district>
+				<country>Deutschland</country>
+				<idno subtype="geonames">https://www.geonames.org/2954172</idno>
 			</place>
 			<place xml:id="l1977">
 				<settlement>Messinam</settlement>
@@ -15549,15 +15807,18 @@
 			<place xml:id="l2283">
 				<settlement>Lund</settlement>
 				<location>
-					<geo>55.7029296 13.1929449</geo>
+					<geo>55.70584 13.19321</geo>
 				</location>
+				<country>Schweden</country>
+				<idno subtype="geonames">https://www.geonames.org/2693678</idno>
 			</place>
 			<place xml:id="l2284">
 				<settlement>Roskilde</settlement>
-				<country>Danmark</country>
+				<country>Dänemark</country>
 				<location>
-					<geo>55.6433478 12.0819247</geo>
+					<geo>55.64152 12.08035</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2614481</idno>
 			</place>
 			<place xml:id="l2285">
 				<settlement>Buchhorn</settlement>
@@ -16762,11 +17023,12 @@
 			</place>
 			<place xml:id="l2445">
 				<settlement>Pfäffikon</settlement>
-				<district>Baden-Württemberg</district>
-				<country>Deutschland</country>
+				<district>Zürich</district>
+				<country>Schweiz</country>
 				<location>
-					<geo>47.366167 8.786677</geo>
+					<geo>47.36453 8.79202</geo>
 				</location>
+				<idno subtype="geonames">https://www.geonames.org/2659219</idno>
 			</place>
 			<place xml:id="l2446">
 				<settlement>Mirandola</settlement>
@@ -16789,9 +17051,18 @@
 			</place>
 			<place xml:id="l2450">
 				<district>Schwyz</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.02076 8.65414</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658665</idno>
 			</place>
 			<place xml:id="l2451">
 				<district>Appenzell</district>
+				<location>
+					<geo>47.36293 9.28283</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2661739</idno>
 			</place>
 			<place xml:id="l2452">
 				<settlement>die vier Orte</settlement>
@@ -16804,6 +17075,1636 @@
 			</place>
 			<place xml:id="l2455">
 				<district>Underwalden</district>
+			</place>
+			<place xml:id="l2460">
+				<settlement>Nürnberg</settlement>
+				<country>Deutschland</country>
+			</place>
+			<place xml:id="l2461">
+				<settlement>Wallis</settlement>
+				<country>Schweiz</country>
+			</place>
+			<place xml:id="l2470">
+				<settlement>Haslach, St.Gallen</settlement>
+				<country>Schweiz</country>
+			</place>
+			<place xml:id="l2456">
+				<settlement>Zürichsee</settlement>
+				<location>
+					<geo>47.23129 8.70336</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2657892</idno>
+			</place>
+			<place xml:id="l2471">
+				<settlement>	Nizäa</settlement>
+				<country>Türkei</country>
+			</place>
+			<place xml:id="l2480">
+				<district>St. Galler Rheintal</district>
+				<location>
+					<geo>47.34952 9.57561</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/11549170</idno>
+			</place>
+			<place xml:id="l2553">
+				<settlement>Bormio</settlement>
+				<country>Italien</country>
+				<location>
+					<geo>46.46717 10.37008</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/3181730</idno>
+			</place>
+			<place xml:id="l2561">
+				<country>Podolien</country>
+			</place>
+			<place xml:id="l2631">
+				<settlement>Bodrum</settlement>
+				<country>Türkei</country>
+			</place>
+			<place xml:id="l2632">
+				<settlement>Waldkirch</settlement>
+				<district>St. Gallen</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.46859 9.28665</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658067</idno>
+			</place>
+			<place xml:id="l2633">
+				<settlement>Kirche St. Laurenzen</settlement>
+				<district>St. Gallen</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.42463 9.37707</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/10227506</idno>
+			</place>
+			<place xml:id="l2634">
+				<settlement>Steinach</settlement>
+				<district>St. Gallen</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.50178 9.43846</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/8505036</idno>
+			</place>
+			<place xml:id="l2635">
+				<settlement>Homburg</settlement>
+				<district>Thurgau</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.63469 9.00756</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2660308</idno>
+			</place>
+			<place xml:id="l2638">
+				<settlement>Reusstal</settlement>
+				<country>Schweiz</country>
+			</place>
+			<place xml:id="l2648">
+				<settlement>Niederrhein</settlement>
+				<country>Deutschland</country>
+				<location>
+					<geo>51.43436 6.61158</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/12076814</idno>
+			</place>
+			<place xml:id="l2688">
+				<settlement>Ägypten</settlement>
+				<country>Ägypten</country>
+			</place>
+			<place xml:id="l2600">
+				<settlement>Thusis</settlement>
+				<district>Graubünden</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>46.69724 9.43938</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658371</idno>
+			</place>
+			<place xml:id="l2695">
+				<settlement>Zizers</settlement>
+				<district>Graubünden</district>
+			</place>
+			<place xml:id="l2639">
+				<settlement>Freiamt</settlement>
+				<district>Aargau</district>
+				<country>Schweiz</country>
+			</place>
+			<place xml:id="l2637">
+				<settlement>Ottenbach</settlement>
+				<district>Zürich</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.28228 8.40432</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2659266</idno>
+			</place>
+			<place xml:id="l2640">
+				<settlement>Wagenhausen</settlement>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.66003 8.84782</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658081</idno>
+			</place>
+			<place xml:id="l2636">
+				<district>Katzenelnbogen</district>
+				<location>
+					<geo>50.27226 7.98646</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/6557884</idno>
+			</place>
+			<place xml:id="l2651">
+				<settlement>Saint-Maurice</settlement>
+				<district>Wallis</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>46.21826 7.0032</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658864</idno>
+			</place>
+			<place xml:id="l2650">
+				<district>Kalabrien</district>
+				<country>Italien</country>
+				<location>
+					<geo>39 16.5</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2525468</idno>
+			</place>
+			<place xml:id="l2673">
+				<settlement>Gruyère</settlement>
+				<district>Freiburg</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>46.58338 7.08207</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2660463</idno>
+			</place>
+			<place xml:id="l2671">
+				<district>Somerset</district>
+				<country>United Kingdom</country>
+				<location>
+					<geo>51.08333 -3</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2637532</idno>
+			</place>
+			<place xml:id="l2670">
+				<settlement>Leith</settlement>
+				<country>Schottland</country>
+				<location>
+					<geo>55.9713 -3.1723</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2644641</idno>
+			</place>
+			<place xml:id="l2667">
+				<settlement>Zadar</settlement>
+				<country>Kroatien</country>
+				<location>
+					<geo>44.11578 15.22514</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/3186952</idno>
+			</place>
+			<place xml:id="l2665">
+				<country>Irland</country>
+				<location>
+					<geo>53 -8</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2963597</idno>
+			</place>
+			<place xml:id="l2658">
+				<settlement>Zator</settlement>
+				<country>Polen</country>
+				<location>
+					<geo>49.99604 19.43799</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/3080590</idno>
+			</place>
+			<place xml:id="l2654">
+				<settlement>Comer See</settlement>
+				<country>Italien</country>
+				<location>
+					<geo>46.00793 9.26079</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/3178228</idno>
+			</place>
+			<place xml:id="l2646">
+				<settlement>Stallikon</settlement>
+				<district>Zürich</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.32582 8.48965</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658507</idno>
+			</place>
+			<place xml:id="l2647">
+				<settlement>Mörsburg</settlement>
+				<district>Winterthur</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.53973 8.76931</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/6295084</idno>
+			</place>
+			<place xml:id="l2644">
+				<settlement>Bonstetten</settlement>
+				<district>Zürich</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.31505 8.46836</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2661446</idno>
+			</place>
+			<place xml:id="l2643">
+				<settlement>Wettswil</settlement>
+				<district>Zürich</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.34152 8.47149</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/6252010</idno>
+			</place>
+			<place xml:id="l2642">
+				<settlement>Zufikon</settlement>
+				<district>Aargau</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.34756 8.36029</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/8533236</idno>
+			</place>
+			<place xml:id="l2659">
+				<settlement>S-Chanf</settlement>
+				<district>Engadin</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>46.61248 9.98465</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658766</idno>
+			</place>
+			<place xml:id="l2661">
+				<settlement>Igis</settlement>
+				<district>Graubünden</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>46.94531 9.57218</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2660277</idno>
+			</place>
+			<place xml:id="l2663">
+				<settlement>Magdenau</settlement>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.40242 9.17082</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2659797</idno>
+			</place>
+			<place xml:id="l2697">
+				<settlement>Alpen</settlement>
+			</place>
+			<place xml:id="l2666">
+				<settlement>Brielle</settlement>
+				<country>Niederlande</country>
+				<location>
+					<geo>51.90167 4.1625</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2758326</idno>
+			</place>
+			<place xml:id="l2641">
+				<settlement>Rheinheim</settlement>
+				<country>Deutschland</country>
+				<location>
+					<geo>47.58897 8.303</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/11594412</idno>
+			</place>
+			<place xml:id="l2669">
+				<settlement>Lütetsburg</settlement>
+				<district>Niedersachsen</district>
+				<country>Deutschland</country>
+				<location>
+					<geo>53.6 7.25</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2874955</idno>
+			</place>
+			<place xml:id="l2674">
+				<settlement>Sellenbüren</settlement>
+				<location>
+					<geo>47.34361 8.48301</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/6252014</idno>
+			</place>
+			<place xml:id="l2684">
+				<settlement>Ruswil</settlement>
+				<district>Luzern</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.08425 8.12645</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658914</idno>
+			</place>
+			<place xml:id="l2683">
+				<settlement>Büron</settlement>
+				<district>Luzern</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.21192 8.0942</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2661313</idno>
+			</place>
+			<place xml:id="l2682">
+				<district>Obertoggenburg</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.1931 9.28126</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2661767</idno>
+			</place>
+			<place xml:id="l2681">
+				<district>Werdenberg</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.17743 9.46299</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/6458880</idno>
+			</place>
+			<place xml:id="l2677">
+				<settlement>Reichenbach (Zollikofen)</settlement>
+				<country>Schweiz</country>
+				<location>
+					<geo>46.99204 7.44936</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/10394290</idno>
+			</place>
+			<place xml:id="l2675">
+				<settlement>Roggwil</settlement>
+				<district>Thurgau</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.49981 9.3958</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658993</idno>
+			</place>
+			<place xml:id="l2660">
+				<settlement>Ems</settlement>
+				<district>Graubünden</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>46.83483 9.45075</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2661001</idno>
+			</place>
+			<place xml:id="l2678">
+				<settlement>Ramosch</settlement>
+				<district>Graubünden</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>46.83386 10.3815</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2659072</idno>
+			</place>
+			<place xml:id="l2652">
+				<country>Zypern</country>
+				<location>
+					<geo>35 33</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/146669</idno>
+			</place>
+			<place xml:id="l2466">
+				<settlement>Oetenbach, Zürich</settlement>
+				<district>Zürich</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.37510465486693 8.541462421417238</geo>
+				</location>
+			</place>
+			<place xml:id="l2691">
+				<settlement>Lachen</settlement>
+				<district>Schwyz</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.19224 8.85324</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2660075</idno>
+			</place>
+			<place xml:id="l2692">
+				<settlement>Vézinnes</settlement>
+				<country>Frankreich</country>
+				<location>
+					<geo>47.8925 3.94333</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/6446068</idno>
+			</place>
+			<place xml:id="l2686">
+				<settlement>Sorbonne</settlement>
+				<district>Paris</district>
+				<country>Frankreich</country>
+				<location>
+					<geo>48.84869 2.34363</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/6457252</idno>
+			</place>
+			<place xml:id="l2680">
+				<settlement>Rüti</settlement>
+				<district>Glarus</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>46.93779 9.01695</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658911</idno>
+			</place>
+			<place xml:id="l2679">
+				<settlement>Linthal</settlement>
+				<district>Glarus</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>46.92127 8.99799</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2659878</idno>
+			</place>
+			<place xml:id="l2694">
+				<settlement>Andelfingen</settlement>
+				<district>Zürich</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.59447 8.67826</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2660489</idno>
+			</place>
+			<place xml:id="l2693">
+				<settlement>Baar</settlement>
+				<district>Zug</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.19625 8.52954</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2661653</idno>
+			</place>
+			<place xml:id="l2685">
+				<settlement>Ligurien</settlement>
+				<country>Italien</country>
+				<location>
+					<geo>44.5 8.83333</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/3174725</idno>
+			</place>
+			<place xml:id="l2467">
+				<settlement>Kriessern, St.Gallen</settlement>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.36877 9.61133</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/7669676</idno>
+			</place>
+			<place xml:id="l2464">
+				<country>Frankreich</country>
+				<location>
+					<geo>46 2</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/3017382</idno>
+			</place>
+			<place xml:id="l2457">
+				<settlement>Rotterdam</settlement>
+				<location>
+					<geo>51.9225 4.47917</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2747891</idno>
+			</place>
+			<place xml:id="l2459">
+				<settlement>Rhein</settlement>
+				<location>
+					<geo>51.97198 5.91545</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2748179</idno>
+			</place>
+			<place xml:id="l2462">
+				<settlement>Zoffingen, Konstanz, Konstanz</settlement>
+				<country>Deutschland</country>
+				<location>
+					<geo>47.66491047554342 9.176802635192873</geo>
+				</location>
+			</place>
+			<place xml:id="l2463">
+				<country>SCHWEIZ</country>
+				<location>
+					<geo>47.00016 8.01427</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658434</idno>
+			</place>
+			<place xml:id="l2465">
+				<settlement>Cham, Zug</settlement>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.18213 8.46358</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2661228</idno>
+			</place>
+			<place xml:id="l2468">
+				<settlement>Widnau, St.Gallen</settlement>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.40834 9.63321</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/8505040</idno>
+			</place>
+			<place xml:id="l2474">
+				<settlement>Schweiz</settlement>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.00016 8.01427</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658434</idno>
+			</place>
+			<place xml:id="l2475">
+				<settlement>Biel</settlement>
+				<location>
+					<geo>47.13713 7.24608</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2661513</idno>
+			</place>
+			<place xml:id="l2476">
+				<district>Elgg</district>
+				<location>
+					<geo>47.49715 8.86523</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2660920</idno>
+			</place>
+			<place xml:id="l2477">
+				<district>Kurpfalz</district>
+				<country>Deutschland</country>
+			</place>
+			<place xml:id="l2478">
+				<settlement>Savoyen</settlement>
+				<country>Frankreich</country>
+				<location>
+					<geo>45.4 6.5</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2975518</idno>
+			</place>
+			<place xml:id="l2479">
+				<settlement>Bargen</settlement>
+				<district>Bern</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.03754 7.26291</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/11048414</idno>
+			</place>
+			<place xml:id="l2482">
+				<settlement>Rankweil</settlement>
+				<district>Feldkirch</district>
+				<country>Österreich</country>
+				<location>
+					<geo>47.27108 9.64308</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2767974</idno>
+			</place>
+			<place xml:id="l2484">
+				<settlement>Thal</settlement>
+				<district>St. Gallen</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.46677 9.56643</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/6620245</idno>
+			</place>
+			<place xml:id="l2485">
+				<district>Kärnten</district>
+				<country>Österreich</country>
+				<location>
+					<geo>46.75 13.83333</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2774686</idno>
+			</place>
+			<place xml:id="l2486">
+				<district>Steiermark</district>
+				<country>Österreich</country>
+				<location>
+					<geo>47.25 15.16667</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2764581</idno>
+			</place>
+			<place xml:id="l2487">
+				<settlement>Weiden in der Oberpfalz</settlement>
+				<country>Deutschland</country>
+				<location>
+					<geo>49.67682 12.15613</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2813040</idno>
+			</place>
+			<place xml:id="l2488">
+				<settlement>Grub</settlement>
+				<district>Appenzell Ausserrhoden</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.44765 9.50974</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/8063850</idno>
+			</place>
+			<place xml:id="l2489">
+				<district>Appenzell Ausserrhoden</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.36293 9.28283</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2661739</idno>
+			</place>
+			<place xml:id="l2492">
+				<district>St.Gallen</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.25 9.25</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658821</idno>
+			</place>
+			<place xml:id="l2490">
+				<settlement>Arbon</settlement>
+				<district>Arbon</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.51667 9.43333</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2661731</idno>
+			</place>
+			<place xml:id="l2493">
+				<settlement>Rehetobel</settlement>
+				<district>Appenzell Ausserrhoden</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.42611 9.483</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2659082</idno>
+			</place>
+			<place xml:id="l2494">
+				<district>Krain (ehemals Österreich-Ungarn)</district>
+				<country>Slowenien</country>
+				<location>
+					<geo>46.08333 15</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/3190538</idno>
+			</place>
+			<place xml:id="l2495">
+				<district>Dalmatien</district>
+				<country>Kroatien</country>
+				<location>
+					<geo>43 17</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/3202210</idno>
+			</place>
+			<place xml:id="l2496">
+				<country>deutschland</country>
+				<location>
+					<geo>51.5 10.5</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2921044</idno>
+			</place>
+			<place xml:id="l2497">
+				<country>Frankreich</country>
+				<location>
+					<geo>46 2</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/3017382</idno>
+			</place>
+			<place xml:id="l2499">
+				<location>
+					<geo>50.108 11.464</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2853412</idno>
+			</place>
+			<place xml:id="l2500">
+				<settlement>Leingarten</settlement>
+				<district>Baden-Württemberg</district>
+				<country>Deutschland</country>
+				<location>
+					<geo>49.14639 9.11694</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/3274259</idno>
+			</place>
+			<place xml:id="l2501">
+				<settlement>Marbach am Neckar</settlement>
+				<country>Deutschland</country>
+				<location>
+					<geo>48.93964 9.25995</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2873776</idno>
+			</place>
+			<place xml:id="l2502">
+				<country>Schweiz</country>
+				<location>
+					<geo>47.00016 8.01427</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658434</idno>
+			</place>
+			<place xml:id="l2504">
+				<settlement>Staig</settlement>
+				<country>Deutschland</country>
+				<location>
+					<geo>48.29998 9.99138</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2829644</idno>
+			</place>
+			<place xml:id="l2507">
+				<district>Nordrhein-Westfalen</district>
+				<country>Deutschland</country>
+				<location>
+					<geo>51.21895 6.76339</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2861876</idno>
+			</place>
+			<place xml:id="l2508">
+				<settlement>Schönstadt</settlement>
+				<country>Deutschland</country>
+				<location>
+					<geo>50.88372 8.83178</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2836476</idno>
+			</place>
+			<place xml:id="l2469">
+				<district>Unterwalden</district>
+				<country>Schweiz</country>
+			</place>
+			<place xml:id="l2510">
+				<country>Türkei</country>
+			</place>
+			<place xml:id="l2511">
+				<district>Vorarlberg</district>
+				<country>Österreich</country>
+				<location>
+					<geo>47.25 9.91667</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2762300</idno>
+			</place>
+			<place xml:id="l2513">
+				<country>Deutschland</country>
+				<location>
+					<geo>51.5 10.5</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2921044</idno>
+			</place>
+			<place xml:id="l2503">
+				<settlement>Baden</settlement>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.47333 8.30592</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2661646</idno>
+			</place>
+			<place xml:id="l2512">
+				<settlement>Baden</settlement>
+				<district>Aargau</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.47333 8.30592</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2661646</idno>
+			</place>
+			<place xml:id="l2514">
+				<settlement>Maladers</settlement>
+				<country>Schweiz</country>
+				<location>
+					<geo>46.84986 9.53287</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2661169</idno>
+			</place>
+			<place xml:id="l2515">
+				<settlement>Hemishofen</settlement>
+				<district>Schaffhausen</district>
+				<location>
+					<geo>47.67659 8.82977</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2660381</idno>
+			</place>
+			<place xml:id="l2516">
+				<country>Schweiz</country>
+				<location>
+					<geo>47.00016 8.01427</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658434</idno>
+			</place>
+			<place xml:id="l2521">
+				<settlement>Kurzdorf, Frauenfeld</settlement>
+				<district>Thurgau</district>
+				<country>Schweiz</country>
+			</place>
+			<place xml:id="l2522">
+				<settlement>	 Książ Wielki</settlement>
+				<country>Polen</country>
+				<location>
+					<geo>50.44351 20.14026</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/767156</idno>
+			</place>
+			<place xml:id="l2481">
+				<district>Schwaben</district>
+				<country>Deutschland</country>
+				<location>
+					<geo>48 9</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2824481</idno>
+			</place>
+			<place xml:id="l2523">
+				<settlement>Malta</settlement>
+				<country>Malta</country>
+				<location>
+					<geo>35.91667 14.43333</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2562770</idno>
+			</place>
+			<place xml:id="l2524">
+				<settlement>Schottland</settlement>
+				<country>Schottland</country>
+				<location>
+					<geo>56 -4</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2638360</idno>
+			</place>
+			<place xml:id="l2525">
+				<settlement>Roosendaal</settlement>
+				<country>Niederlande</country>
+				<location>
+					<geo>51.53083 4.46528</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2747930</idno>
+			</place>
+			<place xml:id="l2526">
+				<settlement>Oudewater</settlement>
+				<country>Niederlande</country>
+				<location>
+					<geo>52.025 4.86806</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2748979</idno>
+			</place>
+			<place xml:id="l2498">
+				<country>Deutschland</country>
+				<location>
+					<geo>51.5 10.5</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2921044</idno>
+			</place>
+			<place xml:id="l2527">
+				<settlement>Reutti (Amstetten)</settlement>
+				<country>Deutschland</country>
+				<location>
+					<geo>48.55553 9.86692</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2847729</idno>
+			</place>
+			<place xml:id="l2528">
+				<settlement>Bodensee</settlement>
+				<location>
+					<geo>47.58333 9.46667</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2659347</idno>
+			</place>
+			<place xml:id="l2529">
+				<district>Brabant</district>
+				<country>Niederlande</country>
+			</place>
+			<place xml:id="l2530">
+				<country>Portugal</country>
+				<location>
+					<geo>39.6945 -8.13057</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2264397</idno>
+			</place>
+			<place xml:id="l2531">
+				<country>Griechenland</country>
+				<location>
+					<geo>39 22</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/390903</idno>
+			</place>
+			<place xml:id="l2532">
+				<settlement>Marne</settlement>
+				<location>
+					<geo>48.81641 2.41162</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2995605</idno>
+			</place>
+			<place xml:id="l2533">
+				<settlement>Rhein</settlement>
+				<location>
+					<geo>51.97198 5.91545</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2748179</idno>
+			</place>
+			<place xml:id="l2534">
+				<settlement>Limmat</settlement>
+				<location>
+					<geo>47.49401 8.2449</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2659887</idno>
+			</place>
+			<place xml:id="l2535">
+				<settlement>Baden</settlement>
+				<district>Aargau</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.47333 8.30592</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2661646</idno>
+			</place>
+			<place xml:id="l2536">
+				<country>Europa</country>
+			</place>
+			<place xml:id="l2539">
+				<settlement>Baden</settlement>
+				<district>Aargau</district>
+				<location>
+					<geo>47.47333 8.30592</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2661646</idno>
+			</place>
+			<place xml:id="l2541">
+				<settlement>Stoss</settlement>
+				<district>Appenzell</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.36002 9.47971</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/11075711</idno>
+			</place>
+			<place xml:id="l2542">
+				<settlement>die 7 Orte</settlement>
+			</place>
+			<place xml:id="l2544">
+				<country>Deutschland</country>
+				<location>
+					<geo>51.5 10.5</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2921044</idno>
+			</place>
+			<place xml:id="l2545">
+				<settlement>Rheinau</settlement>
+				<district>Zürich</district>
+				<location>
+					<geo>47.64202 8.60801</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/11776365</idno>
+			</place>
+			<place xml:id="l2547">
+				<settlement>Septimer-Pass</settlement>
+				<country>Schweiz</country>
+			</place>
+			<place xml:id="l2548">
+				<settlement>Alexandria</settlement>
+				<country>Ägypten</country>
+				<location>
+					<geo>31.201055678196866 29.911994934082035</geo>
+				</location>
+			</place>
+			<place xml:id="l2549">
+				<country>Afrika</country>
+			</place>
+			<place xml:id="l2550">
+				<district>Palästina</district>
+				<country>Oströmisches Reich</country>
+			</place>
+			<place xml:id="l2551">
+				<settlement>Neunkirch</settlement>
+				<district>Schaffhausen</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.69012 8.49981</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2659478</idno>
+			</place>
+			<place xml:id="l2552">
+				<settlement>Tallinn</settlement>
+				<country>Estland</country>
+				<location>
+					<geo>59.43696 24.75353</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/588409</idno>
+			</place>
+			<place xml:id="l2554">
+				<settlement>Ermland</settlement>
+				<country>Polen</country>
+				<location>
+					<geo>53.83333 20.83333</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/858791</idno>
+			</place>
+			<place xml:id="l2555">
+				<country>Deutschland</country>
+				<location>
+					<geo>51.5 10.5</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2921044</idno>
+			</place>
+			<place xml:id="l2556">
+				<settlement>Sizilien</settlement>
+				<country>Italien</country>
+				<location>
+					<geo>37.75 14.25</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2523119</idno>
+			</place>
+			<place xml:id="l2557">
+				<settlement>Süddeutschland</settlement>
+				<country>Deutschland</country>
+			</place>
+			<place xml:id="l2559">
+				<settlement>Ostroróg</settlement>
+				<country>Polen</country>
+				<location>
+					<geo>52.6265 16.44988</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/3089767</idno>
+			</place>
+			<place xml:id="l2560">
+				<country>Österreich</country>
+				<location>
+					<geo>47.33333 13.33333</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2782113</idno>
+			</place>
+			<place xml:id="l2562">
+				<country>Preussen</country>
+			</place>
+			<place xml:id="l2563">
+				<settlement>Altmühl</settlement>
+				<district>Bayern</district>
+				<country>Deutschland</country>
+				<location>
+					<geo>48.9 11.9</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2956977</idno>
+			</place>
+			<place xml:id="l2564">
+				<country>Schweiz</country>
+				<location>
+					<geo>47.00016 8.01427</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658434</idno>
+			</place>
+			<place xml:id="l2565">
+				<settlement>Wiesbaden</settlement>
+				<country>Deutschland</country>
+				<location>
+					<geo>50.08258 8.24932</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2809346</idno>
+			</place>
+			<place xml:id="l2566">
+				<country>Slowenien</country>
+				<location>
+					<geo>46.08333 15</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/3190538</idno>
+			</place>
+			<place xml:id="l2567">
+				<settlement>Rotenburg ob der Tauber</settlement>
+				<country>Deutschland</country>
+				<location>
+					<geo>49.37885 10.18711</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2844056</idno>
+			</place>
+			<place xml:id="l2568">
+				<settlement>Szczebrzeszyn</settlement>
+				<country>Polen</country>
+				<location>
+					<geo>50.69499 22.97954</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/757452</idno>
+			</place>
+			<place xml:id="l2569">
+				<settlement>Jordan</settlement>
+				<country>Israel</country>
+			</place>
+			<place xml:id="l2570">
+				<settlement>Kaunas</settlement>
+				<country>Litauen</country>
+				<location>
+					<geo>54.90272 23.90961</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/598316</idno>
+			</place>
+			<place xml:id="l2571">
+				<settlement>Vicebsk</settlement>
+				<country>Belarus</country>
+				<location>
+					<geo>55.1904 30.2049</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/620127</idno>
+			</place>
+			<place xml:id="l2572">
+				<settlement>Njaswisch</settlement>
+				<country>Belarus</country>
+				<location>
+					<geo>53.22186 26.67679</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/624700</idno>
+			</place>
+			<place xml:id="l2573">
+				<settlement>Olyka</settlement>
+				<country>Ukraine</country>
+				<location>
+					<geo>50.71855 25.81251</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/698502</idno>
+			</place>
+			<place xml:id="l2574">
+				<country>Livland</country>
+			</place>
+			<place xml:id="l2575">
+				<settlement>Annecy</settlement>
+				<district>Auvergne-Rhône-Alpes</district>
+				<country>Frankreich</country>
+				<location>
+					<geo>45.90878 6.12565</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/3037543</idno>
+			</place>
+			<place xml:id="l2576">
+				<district>Auvergne</district>
+				<country>Frankreich</country>
+				<location>
+					<geo>45.482 5.37437</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/11071625</idno>
+			</place>
+			<place xml:id="l2577">
+				<settlement>Termes</settlement>
+				<district>Auvergne</district>
+				<country>Frankreich</country>
+				<location>
+					<geo>45.97046 2.68682</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/12323624</idno>
+			</place>
+			<place xml:id="l2578">
+				<settlement>Ribeauvillé</settlement>
+				<country>Frankreich</country>
+				<location>
+					<geo>48.1951 7.31938</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2983705</idno>
+			</place>
+			<place xml:id="l2579">
+				<settlement>Saarbrücken</settlement>
+				<district>Saarland</district>
+				<country>Deutschland</country>
+				<location>
+					<geo>49.23262 7.00982</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2842647</idno>
+			</place>
+			<place xml:id="l2580">
+				<settlement>Zizers</settlement>
+				<location>
+					<geo>46.93575 9.56491</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2657916</idno>
+			</place>
+			<place xml:id="l2581">
+				<settlement>Laufen</settlement>
+				<district>Zürich</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.67025 8.64354</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/7286279</idno>
+			</place>
+			<place xml:id="l2582">
+				<settlement>Feldkirch</settlement>
+				<country>Österreich</country>
+				<location>
+					<geo>47.23306 9.6</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2779674</idno>
+			</place>
+			<place xml:id="l2583">
+				<settlement>Waltalingen</settlement>
+				<location>
+					<geo>47.62856 8.76585</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/7287533</idno>
+			</place>
+			<place xml:id="l2584">
+				<settlement>Haradok</settlement>
+				<country>Belarus</country>
+				<location>
+					<geo>54.1545 26.9213</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/628156</idno>
+			</place>
+			<place xml:id="l2585">
+				<settlement>Barysaw</settlement>
+				<country>Belarus</country>
+				<location>
+					<geo>54.2279 28.505</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/630376</idno>
+			</place>
+			<place xml:id="l2483">
+				<settlement>Stammheim</settlement>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.64002 8.77932</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/12021849</idno>
+			</place>
+			<place xml:id="l2586">
+				<country>Asien</country>
+			</place>
+			<place xml:id="l2472">
+				<country>Polen</country>
+				<location>
+					<geo>52 20</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/798544</idno>
+			</place>
+			<place xml:id="l2587">
+				<settlement>Wimmis</settlement>
+				<district>Bern</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>46.67587 7.63972</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2657977</idno>
+			</place>
+			<place xml:id="l2588">
+				<settlement>Sussex</settlement>
+				<country>England</country>
+			</place>
+			<place xml:id="l2589">
+				<settlement>Picardie</settlement>
+				<country>Frankreich</country>
+				<location>
+					<geo>49.63333 2.8</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2987375</idno>
+			</place>
+			<place xml:id="l2590">
+				<settlement>Northumbria</settlement>
+				<country>United Kingdom</country>
+				<location>
+					<geo>55 -2.5</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2641234</idno>
+			</place>
+			<place xml:id="l2591">
+				<country>Armenien</country>
+			</place>
+			<place xml:id="l2592">
+				<settlement>Grauer Bund</settlement>
+			</place>
+			<place xml:id="l2593">
+				<settlement>Romanshorn</settlement>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.56586 9.37869</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658985</idno>
+			</place>
+			<place xml:id="l2520">
+				<country>Schweden</country>
+				<location>
+					<geo>62 15</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2661886</idno>
+			</place>
+			<place xml:id="l2594">
+				<settlement>Näfels</settlement>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.09775 9.06361</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2659516</idno>
+			</place>
+			<place xml:id="l2595">
+				<settlement>Güttingen</settlement>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.60349 9.28742</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2660432</idno>
+			</place>
+			<place xml:id="l2596">
+				<settlement>Obervaz</settlement>
+				<country>Schweiz</country>
+				<location>
+					<geo>46.7 9.53333</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2659330</idno>
+			</place>
+			<place xml:id="l2597">
+				<settlement>Avers</settlement>
+				<country>Schweiz</country>
+				<location>
+					<geo>46.44685 9.53056</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/7285127</idno>
+			</place>
+			<place xml:id="l2598">
+				<settlement>Schams</settlement>
+				<country>Schweiz</country>
+			</place>
+			<place xml:id="l2599">
+				<settlement>Heinzenberg</settlement>
+				<country>Schweiz</country>
+			</place>
+			<place xml:id="l2601">
+				<settlement>Rheinwald</settlement>
+				<country>Schweiz</country>
+				<location>
+					<geo>46.54465 9.24054</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/12021850</idno>
+			</place>
+			<place xml:id="l2602">
+				<settlement>Tschappina</settlement>
+				<country>Schweiz</country>
+				<location>
+					<geo>46.6869 9.38344</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2659334</idno>
+			</place>
+			<place xml:id="l2603">
+				<settlement>Safien</settlement>
+				<country>Schweiz</country>
+				<location>
+					<geo>46.6576 9.29434</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/7287012</idno>
+			</place>
+			<place xml:id="l2604">
+				<settlement>Rhäzuns</settlement>
+				<country>Schweiz</country>
+				<location>
+					<geo>46.79891 9.39764</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2659064</idno>
+			</place>
+			<place xml:id="l2605">
+				<settlement>Korfu</settlement>
+				<country>Griechenland</country>
+				<location>
+					<geo>39.62441 19.92016</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2463679</idno>
+			</place>
+			<place xml:id="l2606">
+				<settlement>Grosspolen</settlement>
+				<country>Polen</country>
+				<location>
+					<geo>52.3 17.2</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/3337498</idno>
+			</place>
+			<place xml:id="l2607">
+				<settlement>Krzcięcice</settlement>
+				<country>Polen</country>
+				<location>
+					<geo>50.58561 20.17596</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/767330</idno>
+			</place>
+			<place xml:id="l2608">
+				<settlement>Niedźwiedź</settlement>
+				<country>Polen</country>
+			</place>
+			<place xml:id="l2609">
+				<settlement>Włodzisław</settlement>
+				<country>Polen</country>
+			</place>
+			<place xml:id="l2610">
+				<country>Wales</country>
+				<location>
+					<geo>52.5 -3.5</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2634895</idno>
+			</place>
+			<place xml:id="l2611">
+				<settlement>Nordsee</settlement>
+			</place>
+			<place xml:id="l2612">
+				<settlement>Westminster</settlement>
+				<country>United Kingdom</country>
+				<location>
+					<geo>51.4975 -0.1357</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2634341</idno>
+			</place>
+			<place xml:id="l2613">
+				<country>Schlesien</country>
+			</place>
+			<place xml:id="l2614">
+				<settlement>Cornwall</settlement>
+				<country>United Kingdom</country>
+				<location>
+					<geo>50.41667 -4.75</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2652355</idno>
+			</place>
+			<place xml:id="l2615">
+				<settlement>Devonshire</settlement>
+				<country>United Kingdom</country>
+				<location>
+					<geo>50.75 -3.75</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2651292</idno>
+			</place>
+			<place xml:id="l2616">
+				<settlement>Exeter</settlement>
+				<country>United Kingdom</country>
+				<location>
+					<geo>50.7236 -3.52751</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2649808</idno>
+			</place>
+			<place xml:id="l2617">
+				<settlement>Dorchester</settlement>
+				<country>United Kingdom</country>
+			</place>
+			<place xml:id="l2618">
+				<settlement>Gais</settlement>
+				<district>Appenzell</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.3615 9.45356</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2660681</idno>
+			</place>
+			<place xml:id="l2619">
+				<settlement>Mellingen</settlement>
+				<district>Aargau</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.41903 8.27331</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2659691</idno>
+			</place>
+			<place xml:id="l2620">
+				<settlement>Walensee</settlement>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.12287 9.19496</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2658065</idno>
+			</place>
+			<place xml:id="l2622">
+				<settlement>Rhäzüns</settlement>
+				<district>Graubünden</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>46.79891 9.39764</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2659064</idno>
+			</place>
+			<place xml:id="l2623">
+				<settlement>Neuburg an der Donau</settlement>
+				<country>Deutschland</country>
+				<location>
+					<geo>48.73218 11.18709</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2866070</idno>
+			</place>
+			<place xml:id="l2624">
+				<settlement>Boulogne-sur-mer</settlement>
+				<country>Frankreich</country>
+				<location>
+					<geo>50.72485 1.61373</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/3031133</idno>
+			</place>
+			<place xml:id="l2625">
+				<settlement>Guînes</settlement>
+				<country>Frankreich</country>
+				<location>
+					<geo>50.86708 1.87025</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/3014224</idno>
+			</place>
+			<place xml:id="l2626">
+				<settlement>Kontantinopel</settlement>
+			</place>
+			<place xml:id="l2627">
+				<settlement>Valencia</settlement>
+				<country>Spanien</country>
+				<location>
+					<geo>39.47391 -0.37966</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2509954</idno>
+			</place>
+			<place xml:id="l2628">
+				<settlement>Seeburg</settlement>
+				<country>Deutschland</country>
+				<location>
+					<geo>48.44663 9.45983</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2833906</idno>
+			</place>
+			<place xml:id="l2629">
+				<settlement>Attika</settlement>
+				<country>Griechenland</country>
+				<location>
+					<geo>37.92037 23.9035</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/6692632</idno>
+			</place>
+			<place xml:id="l2630">
+				<settlement>Meissen</settlement>
+				<country>Deutschland</country>
+				<location>
+					<geo>51.16158 13.4737</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2872155</idno>
+			</place>
+			<place xml:id="l2506">
+				<settlement>Famagusta</settlement>
+				<location>
+					<geo>35.12489 33.94135</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/146617</idno>
+			</place>
+			<place xml:id="l2653">
+				<settlement>Moskau</settlement>
+				<country>Russland</country>
+				<location>
+					<geo>55.75222 37.61556</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/524901</idno>
+			</place>
+			<place xml:id="l2655">
+				<settlement>Hanse</settlement>
+			</place>
+			<place xml:id="l2656">
+				<settlement>Grünenbach</settlement>
+				<district>Baden-Württemberg</district>
+				<country>Deutschland</country>
+				<location>
+					<geo>47.7961 10.05249</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2914278</idno>
+			</place>
+			<place xml:id="l2657">
+				<settlement>Płock</settlement>
+				<country>Polen</country>
+				<location>
+					<geo>52.54682 19.70638</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/3088825</idno>
+			</place>
+			<place xml:id="l2458">
+				<settlement>Goldbach</settlement>
+				<district>Zürich</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.32729 8.58077</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/6293331</idno>
+			</place>
+			<place xml:id="l2698">
+				<settlement>St. Katharinental</settlement>
+				<district>Thurgau</district>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.68756 8.73202</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/11963191</idno>
+			</place>
+			<place xml:id="l2699">
+				<district>Pyrénées-Orientales</district>
+				<country>Frankreich</country>
+				<location>
+					<geo>42.60075 2.58889</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2984885</idno>
+			</place>
+			<place xml:id="l2700">
+				<settlement>Flaach</settlement>
+				<country>Schweiz</country>
+				<location>
+					<geo>47.57608 8.60633</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2660765</idno>
+			</place>
+			<place xml:id="l2701">
+				<settlement>Prättigau</settlement>
+				<country>Schweiz</country>
+				<location>
+					<geo>46.86624 9.84407</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/7285011</idno>
+			</place>
+			<place xml:id="l2702">
+				<settlement>Languedoc</settlement>
+				<country>Frankreich</country>
+				<location>
+					<geo>43.53333 3.23333</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/3007670</idno>
+			</place>
+			<place xml:id="l2703">
+				<settlement>Muri</settlement>
+				<district>Aargau</district>
+				<location>
+					<geo>47.27428 8.33854</geo>
+				</location>
+				<idno subtype="geonames">https://www.geonames.org/2659531</idno>
 			</place>
 		</listPlace>
 	</standOff>
